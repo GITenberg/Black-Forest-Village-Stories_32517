@@ -1,0 +1,44 @@
+_repo: Black-Forest-Village-Stories_32517
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Goepp, Charles
+    birthdate: 1827
+    deathdate: 1907
+    gutenberg_agent_id: '35888'
+    url: http://www.gutenberg.org/2009/agents/35888
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+description: Cover; title page; copyright page; the gawk; the pipe of war; manor-house
+  farmer's vefela; 1.; 2.; 3.; nip-cheeked toney; good government; 1.; 2.; the hostile
+  brothers; ivo, the gentleman; 1. the first mass; 2. the teacher; 3. child's love;
+  4. brindle and the goslings; 5. life in the fields; 6. the grammar-school; 7. the
+  convent; 8. the holidays; 9. the friends; 10. a meeting; 11. the college; 12. the
+  college chap; 13. discord; 14. the quarrel; 15. release; florian and crescence;
+  1. the girls at the well; 2. flying off the handle; 3. weekday life on sunday.
+gutenberg_issued: '2010-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Auerbach, Berthold, 1812-1882 -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Black Forest (Germany) -- Fiction'
+- !lcsh 'Country life -- Fiction'
+- !lcsh 'Villages -- Fiction'
+title: Black Forest Village Stories
+url: http://www.gutenberg.org/ebooks/32517
